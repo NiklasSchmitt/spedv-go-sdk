@@ -1,5 +1,4 @@
 .gitignore
-.openapi-generator-ignore
 .travis.yml
 README.md
 api/openapi.yaml
@@ -267,19 +266,4 @@ model_fph_sped_v_server_objects_sim_rail_sim_rail_active_train.go
 model_fph_sped_v_server_objects_sim_rail_sim_rail_dispatch_station.go
 model_fph_sped_v_server_objects_sim_rail_sim_rail_server.go
 response.go
-test/api_bank_account_test.go
-test/api_branch_test.go
-test/api_chat_test.go
-test/api_kontor_test.go
-test/api_live_test.go
-test/api_location_test.go
-test/api_maintenance_test.go
-test/api_maps_test.go
-test/api_omsi_test.go
-test/api_permissions_test.go
-test/api_sim_rail_test.go
-test/api_spedition_test.go
-test/api_task_test.go
-test/api_truck_test.go
-test/api_user_test.go
 utils.go
